@@ -1,0 +1,15 @@
+.post-details {
+  max-width: 800px;
+  margin: auto;
+  padding: 30px;
+}
+
+.meta {
+  color: #777;
+  margin-bottom: 20px;
+}
+
+.content {
+  font-size: 1.1rem;
+  line-height: 1.7;
+}
